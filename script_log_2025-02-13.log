@@ -1,0 +1,5 @@
+2025-02-13 14:42:23,653 - ScriptLogger - INFO - Login Successful
+2025-02-13 14:42:23,653 - ScriptLogger - DEBUG - User: admin logged in successfully
+2025-02-13 14:42:23,653 - ScriptLogger - INFO - Login Script function executed successfully
+2025-02-13 14:42:23,653 - ScriptLogger - ERROR - Error: Login Failed!. Invalid Credentials
+2025-02-13 14:42:23,689 - ScriptLogger - INFO - Login Script function executed successfully
